@@ -1,13 +1,15 @@
 # lqsblog-frontend-nextjs
 
 
- 它（[Github](https://github.com/lqsong/lqsblog-frontend-nextjs) 、 [Gitee](https://gitee.com/lqsong/lqsblog-frontend-nextjs)）是一个PC端、WAP端自适应展示的一个前端网站前台，它基于  [nextjs](https://github.com/vercel/next.js)实现。
+ 它（[Github](https://github.com/lqsong/lqsblog-frontend-nextjs) 、 [Gitee](https://gitee.com/lqsong/lqsblog-frontend-nextjs)）是一个PC端、WAP端自适应展示的一个前端网站前台，它基于  [nextjs](https://github.com/vercel/next.js) 结合 [lqsblog-frontend-foreground-template](https://github.com/lqsong/lqsblog-frontend-foreground-template)模板实现。
 
 ## 开发文档
 
 - [DEMO](http://liqingsong.cc/)
 
 - [lqsBlog官方文档](http://docs.liqingsong.cc/)。
+
+- [webpack-website官方文档](http://webpack-website.liqingsong.cc/)。
 
 
 ## 功能
